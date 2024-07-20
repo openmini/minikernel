@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/openmini/api
+[submodule "openmini4pc"]
+	path = openmini4pc
+	url = https://github.com/openmini/openmini4pc
